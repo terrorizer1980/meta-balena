@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.85.12
+## (2021-10-20)
+
+* balena-engine: Remove deprecated development drop-in service file [Kyle Harding]
+
 # v2.85.11
 ## (2021-10-06)
 

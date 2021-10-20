@@ -1,4 +1,18 @@
 - commits:
+    - subject: 'balena-engine: Remove deprecated development drop-in service file'
+      hash: 6492ddd5971c0aba183062906557644e3b00f094
+      body: |
+        This file is no longer used since the merge of dev and prod images.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 2.85.12
+  date: 2021-10-20T15:50:21.652Z
+- commits:
     - subject: 'patch: Add dtoverlay practical test'
       hash: 76664fceb33d01cf504df464879569f8c147f2fd
       body: ''
