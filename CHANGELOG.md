@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.86.0
+## (2021-10-20)
+
+* Create new data partition reset service [Kyle Harding]
+
 # v2.85.11
 ## (2021-10-06)
 
